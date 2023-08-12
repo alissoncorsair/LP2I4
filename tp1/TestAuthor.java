@@ -17,7 +17,6 @@ class Author {
         return this.email;
     }
 
-    // Setter for email
     public void setEmail(String email) {
         this.email = email;
     }
@@ -26,7 +25,6 @@ class Author {
         return this.gender;
     }
 
-    // Override toString() method
     @Override public String toString() {
         return "Author[name=" + this.name + ", email=" + this.email + ", gender=" + this.gender + "]";
     }
