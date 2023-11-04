@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/alisson/Downloads/sqljdbc_12.4.2.0_ptb/sqljdbc_12.4/ptb/jars/mssql-jdbc-12.4.2.jre11.jar"
+    ]
+}
